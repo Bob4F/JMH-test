@@ -1,0 +1,4 @@
+JMH S 31 co.speedar.infra.JMH_HelloWorld S 64 co.speedar.infra.generated.JMH_HelloWorld_wellHelloThere_jmhTest S 14 wellHelloThere S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 30 co.speedar.infra.gc.AllocArray S 53 co.speedar.infra.gc.generated.AllocArray_test_jmhTest S 4 test S 14 SingleShotTime E A 1 1 1 E I 1 3 E E I 1 3 E E I 1 3 E E E E E E U 12 MILLISECONDS E E 
+JMH S 28 co.speedar.infra.MyBenchmark S 57 co.speedar.infra.generated.MyBenchmark_testMethod_jmhTest S 10 testMethod S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 26 co.speedar.infra.LockRoach S 49 co.speedar.infra.generated.LockRoach_test_jmhTest S 4 test S 10 Throughput E A 1 1 1 E E E E E E E E E E E L 1 21 -XX:-UseBiasedLocking E E E E E 
