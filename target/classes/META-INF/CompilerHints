@@ -3,5 +3,6 @@ dontinline,*.*_avgt_jmhStub
 dontinline,*.*_sample_jmhStub
 dontinline,*.*_ss_jmhStub
 dontinline,*.*_thrpt_jmhStub
+dontinline,co/speedar/infra/LockRoach.test
 inline,co/speedar/infra/JMH_HelloWorld.wellHelloThere
 inline,co/speedar/infra/gc/AllocArray.test

@@ -16,7 +16,6 @@ import java.util.concurrent.locks.Lock;
  */
 @Fork(jvmArgsPrepend = {"-XX:-UseBiasedLocking"})
 @State(Scope.Benchmark)
-
 public class LockRoach {
     int x;
 
